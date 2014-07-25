@@ -1,4 +1,4 @@
-JAVAPlay Hello World!
+JAVAPlay Hello WorldS!
 =======================
 
 #Installation and Environment Setup [![Build Status](https://travis-ci.org/tfox-manta/JAVAPlay.png)](https://travis-ci.org/tfox-manta/JAVAPlay)
